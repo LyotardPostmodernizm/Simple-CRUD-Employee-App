@@ -1,4 +1,4 @@
-# Simple-CRUD-Employee-App
+# Simple CRUD Employee App
 
 A very basic CRUD (Create, Read, Update, Delete) application built with **Spring Boot** and **Thymeleaf** for managing employee records.
 
@@ -57,6 +57,10 @@ spring.jpa.hibernate.ddl-auto=update
 - **Delete Employee**: ``` GET /employees/delete?id={id} ```
 
 ## Screenshots:
+![Image1](https://github.com/user-attachments/assets/f9603163-c829-4530-bb53-4c823e0faf30)
+![Image2](https://github.com/user-attachments/assets/6fd7574b-921f-49ad-acf6-16d5ab12327b)
+![Image3](https://github.com/user-attachments/assets/10085e72-2f36-4f4b-87aa-9749f134947d)
+![Image4](https://github.com/user-attachments/assets/c1a0604b-5f4a-4291-a2fa-ef346baa9a37)
 
 
 
